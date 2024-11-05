@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** Docker & Kubernetes are very advanced tools **** </h1>   
+         <h1> **** Make sure everyone practice CICD Project **** </h1>   
 	 
 
     </section>    
