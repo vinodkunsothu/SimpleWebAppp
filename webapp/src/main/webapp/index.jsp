@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** Everyone prepare your resume and forward to me...... **** </h1>   
+         <h1> **** No classes from tomorrow onwards...... **** </h1>   
 	 
 
     </section>    
