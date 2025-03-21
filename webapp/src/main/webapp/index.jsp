@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** Docker & Kubernetes both are Core tools **** </h1>   
+         <h1> **** Makesure everyone practice the CICD Project **** </h1>   
 	 
 
     </section>    
