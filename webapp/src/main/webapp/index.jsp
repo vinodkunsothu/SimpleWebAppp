@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** Makesure everyone practice the CICD Project **** </h1>   
+         <h1> **** Tomorrow We will start Docker  **** </h1>   
 	 
 
     </section>    
