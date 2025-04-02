@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** Docker and Kubernetes  **** </h1>   
+         <h1> **** Tomorrow we will start the session @7AM  **** </h1>   
 	 
 
     </section>    
