@@ -63,7 +63,7 @@ section{
      background-color: #ED6663;
 }
 
-#product{
+#mobiles{
      background-color: #B52B65;
 }
 
